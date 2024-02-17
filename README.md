@@ -1,8 +1,15 @@
-# Getting Started with Create React App
+# Menu Foods Website with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Menu Foods website developed using React, React Routing, React Bootstrap, and React Reveal for smooth animations.
 
-## Available Scripts
+## Features
+
+- Utilizes React for building a dynamic and interactive user interface.
+- Implements React Routing for seamless navigation between different sections of the menu.
+- Uses React Bootstrap for a responsive and visually appealing design.
+- Incorporates React Reveal for smooth and eye-catching animations.
+
+## Installation
 
 In the project directory, you can run:
 
